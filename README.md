@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-class MendiburuFrancisco(self):
+      
+    class MendiburuFrancisco(self):
         self.username = 'MendiburuFrancisco'
         self.name = 'Francisco Mendiburu'
         self.web = 'https://mendiburufrancisco.github.io' 
@@ -26,13 +27,10 @@ class MendiburuFrancisco(self):
         },
         self.studies = {
             'student': ['System engineer','UTN Rosario'],
-        },
-
+        },   
         
-
     def __str__(self):
         return self.name
 
-
-if __name__ == '__main__':
-    me = MendiburuFrancisco()
+     if __name__ == '__main__':
+            me = MendiburuFrancisco()
