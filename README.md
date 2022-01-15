@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+class MendiburuFrancisco(self):
+        self.username = 'MendiburuFrancisco'
+        self.name = 'Francisco Mendiburu'
+        self.web = 'https://mendiburufrancisco.github.io' 
+        self.linkedin = 'https://linkedin.com/in/mendiburufrancisco/'
+        self.source = {
+            'born': ['Argentina','Mercedes','Corrientes'],
+            'Where I live': ['Rosario','Santa Fe'],
+        },
+        self.studies = {
+            'student': ['System engineer','UTN Rosario'],
+        },
+
+        
+
+    def __str__(self):
+        return self.name
+
+
+if __name__ == '__main__':
+    me = MendiburuFrancisco()
