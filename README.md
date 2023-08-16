@@ -7,7 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [mendiburufrancisco.github.io](https://mendiburufrancisco.github.io)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
